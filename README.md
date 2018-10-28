@@ -25,6 +25,10 @@ Felipe
 Constanza
 
 # Grupo 3: Machalí
+[Presentación](https://docs.google.com/presentation/d/e/2PACX-1vTridF9KrqMALFoX4-TdDZCZwrDErjk-viPpQDS8kMpEI4LwAt24grvOeU_xpZqkdhvGSxArrQf4LTe/pub?start=false&loop=false&delayms=15000)
+
+https://raquelcataldo.github.io/Municipalidad-Machali/
+
 Raquel
 Francisca
 Javiera
