@@ -25,7 +25,7 @@ Felipe
 Constanza
 
 # Grupo 3: Machalí
-Raquel
+Raquel.
 Francisca
 Javiera
 
